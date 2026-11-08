@@ -4,6 +4,7 @@ pufferlib/extensions.c
 pufferlib/puffernet.c
 logs/
 logs_release/
+runs/
 ocean/osrs/data/
 
 # Build dir
